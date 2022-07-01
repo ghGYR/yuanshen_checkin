@@ -1,0 +1,9 @@
+{
+    "wechat_api": {
+        "secret": "",
+        "corpid": "",
+        "user": "",
+        "agentid" : ""
+    },
+    "cookie":"cookie_token=;account_id="
+}
